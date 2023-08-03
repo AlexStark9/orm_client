@@ -6,7 +6,7 @@ REQUIRES = [
 ]
 
 setup(
-    name='restclient',
+    name='orm_client',
     version='0.0.1',
     packages=['orm_client'],
     url='https://github.com/AlexStark9/orm_client.git',
